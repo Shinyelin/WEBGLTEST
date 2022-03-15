@@ -1,0 +1,4 @@
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+CIServer.mp4 filter=lfs diff=lfs merge=lfs -text
+DXStroyLineVideo.mp4 filter=lfs diff=lfs merge=lfs -text
+WaitingRoom.mp4 filter=lfs diff=lfs merge=lfs -text
