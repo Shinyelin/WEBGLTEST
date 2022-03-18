@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 141312887
+CRC: 259419031
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 817d3991aec16dd2e2b80f974b3998ee
+    Hash: e235e7fcb94d4c72d52e408221958cce
   TypeTreeHash:
     serializedVersion: 2
     Hash: c31af75079f831b04b55fc6ad0a01bd2
@@ -27,5 +27,5 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Prefab/Serious Disaster.prefab
+- Assets/Prefab/SAPA OBJ.prefab
 Dependencies: []
