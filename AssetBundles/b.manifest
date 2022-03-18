@@ -1,0 +1,257 @@
+ManifestFileVersion: 0
+CRC: 4205384862
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b17d76c1ef61bd67e38965cffb843478
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3df82544a176c53bf4df94b6d7c98611
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 72
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1344c3c82d62a2a41a3576d8abb8e3ea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9085046f02f69544eb97fd06b6048fe2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 78377f94c0347c840b011450eb24f5d2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a0cff215a654a5042aee6431f4725324, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0d8cf8b1486d041489632c65689bbce1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8b1c70b7e7502564e93d418de9017d1f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1f0a302499ef55a4baa2b68c6c572e4b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 948f4100a11a5c24981795d21301da5c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a81e69b9b8993cd45aea245be10b8bd0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71d6219fe37a92f42a5c0dae43ba2541, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 43c00672f34b8224b84701f70f630845, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4f231c4fb786f3946a6b90b886c48677, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9c458e9fb00f7f34392fb5be8db92c10, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2fafe2cfe61f6974895a912c3755e8f1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e5d0223ad308b504bab808b75d43787a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dd0f0e6f4b5b9ac4dbb9d1e2b3a3b654, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dcdf959eea5b24c87ab626c662c26994, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3b05a64a5de3f8546bf586f42e37b979, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 48a79b01ea5641d4aa6daa2e23605641, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 320a5b80b51f909428f52d48dda5ebfd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e1cf503dcf50c5a4aa20b89f74e8a820, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cb34812d516186048b85bb634c996744, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8e6292b2c06870d4495f009f912b9600, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d2feedce2e2e63647b8f875ec0894a15, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b3fc184ec1af85347b74b5fed1650c88, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4c568d1cb012ea49ab76c8c3ac582b5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: adb84e30e02715445aeb9959894e3b4d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 638c870cac4da414fba921606d504407, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 382afb28aa5a7f1428ffeab5b7d15625, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8b9a305e18de0c04dbd257a21cd47087, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: af8152651bc851e45b9606f139d1be27, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30f4b897495c7ad40b2d47143e02aaba, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 215
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+- Class: 328
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: AVProVideo.Runtime
+  ClassName: RenderHeads.Media.AVProVideo.HttpHeaderData
+- AssemblyName: AVProVideo.Runtime
+  ClassName: RenderHeads.Media.AVProVideo.KeyAuthData
+- AssemblyName: AVProVideo.Runtime
+  ClassName: RenderHeads.Media.AVProVideo.MediaHints
+- AssemblyName: AVProVideo.Runtime
+  ClassName: RenderHeads.Media.AVProVideo.MediaPath
+- AssemblyName: AVProVideo.Runtime
+  ClassName: RenderHeads.Media.AVProVideo.MediaPlayer/OptionsAndroid
+- AssemblyName: AVProVideo.Runtime
+  ClassName: RenderHeads.Media.AVProVideo.MediaPlayer/OptionsApple
+- AssemblyName: AVProVideo.Runtime
+  ClassName: RenderHeads.Media.AVProVideo.MediaPlayer/OptionsWebGL
+- AssemblyName: AVProVideo.Runtime
+  ClassName: RenderHeads.Media.AVProVideo.MediaPlayer/OptionsWindows
+- AssemblyName: AVProVideo.Runtime
+  ClassName: RenderHeads.Media.AVProVideo.MediaPlayer/OptionsWindowsUWP
+- AssemblyName: AVProVideo.Runtime
+  ClassName: RenderHeads.Media.AVProVideo.MediaPlayerEvent
+- AssemblyName: AVProVideo.Runtime
+  ClassName: RenderHeads.Media.AVProVideo.VideoResolveOptions
+- AssemblyName: Unity.Postprocessing.Runtime
+  ClassName: UnityEngine.Rendering.PostProcessing.BoolParameter
+- AssemblyName: Unity.Postprocessing.Runtime
+  ClassName: UnityEngine.Rendering.PostProcessing.ColorParameter
+- AssemblyName: Unity.Postprocessing.Runtime
+  ClassName: UnityEngine.Rendering.PostProcessing.FastApproximateAntialiasing
+- AssemblyName: Unity.Postprocessing.Runtime
+  ClassName: UnityEngine.Rendering.PostProcessing.FloatParameter
+- AssemblyName: Unity.Postprocessing.Runtime
+  ClassName: UnityEngine.Rendering.PostProcessing.Fog
+- AssemblyName: Unity.Postprocessing.Runtime
+  ClassName: UnityEngine.Rendering.PostProcessing.GradingModeParameter
+- AssemblyName: Unity.Postprocessing.Runtime
+  ClassName: UnityEngine.Rendering.PostProcessing.HistogramMonitor
+- AssemblyName: Unity.Postprocessing.Runtime
+  ClassName: UnityEngine.Rendering.PostProcessing.LightMeterMonitor
+- AssemblyName: Unity.Postprocessing.Runtime
+  ClassName: UnityEngine.Rendering.PostProcessing.PostProcessDebugLayer
+- AssemblyName: Unity.Postprocessing.Runtime
+  ClassName: UnityEngine.Rendering.PostProcessing.PostProcessDebugLayer/OverlaySettings
+- AssemblyName: Unity.Postprocessing.Runtime
+  ClassName: UnityEngine.Rendering.PostProcessing.PostProcessResources/ComputeShaders
+- AssemblyName: Unity.Postprocessing.Runtime
+  ClassName: UnityEngine.Rendering.PostProcessing.PostProcessResources/SMAALuts
+- AssemblyName: Unity.Postprocessing.Runtime
+  ClassName: UnityEngine.Rendering.PostProcessing.PostProcessResources/Shaders
+- AssemblyName: Unity.Postprocessing.Runtime
+  ClassName: UnityEngine.Rendering.PostProcessing.Spline
+- AssemblyName: Unity.Postprocessing.Runtime
+  ClassName: UnityEngine.Rendering.PostProcessing.SplineParameter
+- AssemblyName: Unity.Postprocessing.Runtime
+  ClassName: UnityEngine.Rendering.PostProcessing.SubpixelMorphologicalAntialiasing
+- AssemblyName: Unity.Postprocessing.Runtime
+  ClassName: UnityEngine.Rendering.PostProcessing.TemporalAntialiasing
+- AssemblyName: Unity.Postprocessing.Runtime
+  ClassName: UnityEngine.Rendering.PostProcessing.TextureParameter
+- AssemblyName: Unity.Postprocessing.Runtime
+  ClassName: UnityEngine.Rendering.PostProcessing.TonemapperParameter
+- AssemblyName: Unity.Postprocessing.Runtime
+  ClassName: UnityEngine.Rendering.PostProcessing.Vector4Parameter
+- AssemblyName: Unity.Postprocessing.Runtime
+  ClassName: UnityEngine.Rendering.PostProcessing.VectorscopeMonitor
+- AssemblyName: Unity.Postprocessing.Runtime
+  ClassName: UnityEngine.Rendering.PostProcessing.WaveformMonitor
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FaceInfo_Legacy
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FontAssetCreationSettings
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.KerningTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_Character
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontFeatureTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontWeightPair
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.VertexGradient
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.ArgumentCache
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentListenerMode
+- AssemblyName: UnityEngine.TextCoreModule
+  ClassName: UnityEngine.TextCore.FaceInfo
+- AssemblyName: UnityEngine.TextCoreModule
+  ClassName: UnityEngine.TextCore.Glyph
+- AssemblyName: UnityEngine.TextCoreModule
+  ClassName: UnityEngine.TextCore.GlyphMetrics
+- AssemblyName: UnityEngine.TextCoreModule
+  ClassName: UnityEngine.TextCore.GlyphRect
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.FontData
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Toggle/ToggleEvent
+Assets:
+- Assets/Prefab/[SAPA0318].prefab
+Dependencies: []
